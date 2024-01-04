@@ -3,6 +3,7 @@
 This project encompasses the development of a feature-rich RESTful API for a Yelp-like application, integrating various functionalities such as file storage, database management, user authentication, and authorization. The API is designed to handle businesses, reviews, and photos with an emphasis on scalability, security, and adherence to best practices.
 
 ****Project Components****
+
 **1. File Storage**
 Implemented a file storage system for photo uploads, supporting image formats such as JPEG and PNG.
 Utilized GridFS in MongoDB to store image files alongside metadata, allowing for efficient retrieval and management.
