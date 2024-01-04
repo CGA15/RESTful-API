@@ -4,9 +4,12 @@ This project encompasses the development of a feature-rich RESTful API for a Yel
 
 ****Project Components****
 **1. File Storage**
+
 Implemented a file storage system for photo uploads, supporting image formats such as JPEG and PNG.
 Utilized GridFS in MongoDB to store image files alongside metadata, allowing for efficient retrieval and management.
+
 **2. Database Integration**
+
 Incorporated MySQL or MongoDB to power the backend database for storing businesses, reviews, and photos.
 Initialized and organized the database using Docker containers with environment variables for configuration.
 Established relationships and associations within the database schema, ensuring seamless access and retrieval of interconnected data.
